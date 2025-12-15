@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Lords Bespoke Tailor System 2",
+  "description": "A premium digital ecosystem for managing high-end tailoring operations, from customer tracking to production workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
